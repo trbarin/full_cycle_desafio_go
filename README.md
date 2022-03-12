@@ -11,4 +11,4 @@ Requisitos:
 * Fazer o push para o Docker Hub
 
 Docker HUB:
-* docker pull thiagorb/desafio_go
+* https://hub.docker.com/repository/docker/thiagorb/desafio_go
